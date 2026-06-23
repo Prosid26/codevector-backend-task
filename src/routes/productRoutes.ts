@@ -5,4 +5,4 @@ const router = Router();
 
 router.get("/", getProducts);
 
-export default router;git status
+export default router;
